@@ -105,11 +105,11 @@ python detect.py
 
 | Metric | Value |
 |--------|-------|
-| Precision | 99.3% |
-| Recall | 74.4% |
-| mAP@50 | 74.3% |
-| mAP@50-95 | 59.8% |
-| Inference Speed | ~7ms/image |
+| Precision | 99.39% |
+| Recall | 74.54% |
+| mAP@50 | 74.33% |
+| mAP@50-95 | 60.99% |
+| Inference Speed | ~2.5ms/image |
 
 ---
 
