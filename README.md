@@ -117,6 +117,11 @@ python detect.py
 
 The model successfully detects and draws bounding boxes around individual LEGO bricks in images, even in dense scenes with hundreds of overlapping pieces.
 
+![Detection Result 1](Result1.jpeg)
+![Detection Result 2](Result2.jpeg)
+![Detection Result 3](Result3.jpeg)
+![Detection Result 4](Result4.jpeg)
+![Detection Result 5](Result5.jpeg)
 ---
 
 ## 🙏 Acknowledgements
